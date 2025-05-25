@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-24T00:54:31 NZST" name="Default suite" finished-at="2025-05-24T00:55:08 NZST" duration-ms="36838">
+    <groups>
+    </groups>
+    <test started-at="2025-05-24T00:54:31 NZST" name="Default test" finished-at="2025-05-24T00:55:08 NZST" duration-ms="36838">
+      <class name="testcases.E2EBookingTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.E2EBookingTests@25a73de1]" started-at="2025-05-24T00:54:31 NZST" name="setup" finished-at="2025-05-24T00:54:56 NZST" duration-ms="25020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCreateBooking()[pri:1, instance:testcases.E2EBookingTests@25a73de1]" started-at="2025-05-24T00:54:56 NZST" name="testCreateBooking" finished-at="2025-05-24T00:54:58 NZST" duration-ms="2215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateBooking -->
+        <test-method signature="testGetBookingById()[pri:2, instance:testcases.E2EBookingTests@25a73de1]" started-at="2025-05-24T00:54:59 NZST" name="testGetBookingById" finished-at="2025-05-24T00:55:00 NZST" duration-ms="1831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetBookingById -->
+        <test-method signature="testGetAllBookingIds()[pri:3, instance:testcases.E2EBookingTests@25a73de1]" started-at="2025-05-24T00:55:01 NZST" name="testGetAllBookingIds" finished-at="2025-05-24T00:55:03 NZST" duration-ms="2128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllBookingIds -->
+        <test-method signature="testUpdateBooking()[pri:4, instance:testcases.E2EBookingTests@25a73de1]" started-at="2025-05-24T00:55:03 NZST" name="testUpdateBooking" finished-at="2025-05-24T00:55:05 NZST" duration-ms="2671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateBooking -->
+        <test-method signature="testDeleteBooking()[pri:5, instance:testcases.E2EBookingTests@25a73de1]" started-at="2025-05-24T00:55:05 NZST" name="testDeleteBooking" finished-at="2025-05-24T00:55:08 NZST" duration-ms="2322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteBooking -->
+      </class> <!-- testcases.E2EBookingTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
